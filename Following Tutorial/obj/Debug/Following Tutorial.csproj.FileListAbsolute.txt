@@ -1,0 +1,11 @@
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\bin\Debug\Following Tutorial.exe.config
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\bin\Debug\Following Tutorial.exe
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\bin\Debug\Following Tutorial.pdb
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\obj\Debug\Following Tutorial.csproj.GenerateResource.cache
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\obj\Debug\Following Tutorial.csproj.CoreCompileInputs.cache
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\obj\Debug\Following Tutorial.exe
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\obj\Debug\Following Tutorial.pdb
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\obj\Debug\Following_Tutorial.MainMenu.resources
+c:\users\caleb\source\repos\Following Tutorial\Following Tutorial\obj\Debug\Following_Tutorial.Game.resources
+C:\Users\caleb\source\repos\Following Tutorial\Following Tutorial\obj\Debug\Following_Tutorial.Properties.Resource.resources
+C:\Users\caleb\source\repos\Following Tutorial\Following Tutorial\obj\Debug\Following Tutorial.csprojAssemblyReference.cache
